@@ -25,8 +25,8 @@ var map_config = {
 	'map_3':{
 		'hover': 'NORTHERN TERRITORY',
 		'enable':true,
-		'url':'#',
-		'target':'none',
+		'url':'http://indigenous-data-hub-webcoda-v2.webflow.io/northern-territory',
+		'target':'same_window',
 		'upColor':'#CFBFB3',
 		'overColor':'#BD4A3D',
 		'downColor':'#A33124',
@@ -71,8 +71,8 @@ var map_config = {
 	'map_8':{
 		'hover': 'WESTERN AUSTRALIA',
 		'enable':true,
-		'url':'#',
-		'target':'none',
+		'url':'http://indigenous-data-hub-webcoda-v2.webflow.io/western-australia',
+		'target':'same_window',
 		'upColor':'#CFBFB3',
 		'overColor':'#BD4A3D',
 		'downColor':'#A33124',

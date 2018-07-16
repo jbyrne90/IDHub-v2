@@ -72,7 +72,7 @@
 		'hover': 'WESTERN AUSTRALIA',
 		'enable':true,
 		'url':'http://indigenous-data-hub-webcoda-v2.webflow.io/western-australia',
-		'target':'none',
+		'target':'same_window',
 		'upColor':'#CFBFB3',
 		'overColor':'#BD4A3D',
 		'downColor':'#A33124',
