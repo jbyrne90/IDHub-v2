@@ -71,7 +71,7 @@ var map_config = {
 	'map_8':{
 		'hover': 'WESTERN AUSTRALIA',
 		'enable':true,
-		'url':'',
+		'url':'http://indigenous-data-hub-webcoda-v2.webflow.io/western-australia',
 		'target':'none',
 		'upColor':'#CFBFB3',
 		'overColor':'#BD4A3D',

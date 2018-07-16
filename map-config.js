@@ -5,13 +5,13 @@
 		'mapShadow':'transparent', //shadow color below the map, can be 'transparent'
 	},
 	'map_1':{
-		'hover': 'AUSTRALIAN CAPITAL TERRITORY',//region hover content
-		'enable':true,//true/false to enable/disable this region
+		'hover': 'AUSTRALIAN CAPITAL TERRITORY', //region hover content
+		'enable':true, //true/false to enable/disable this region
 		'url':'', //Goto URL
 		'target':'none', //open link in new window:new_window, open in current window:same_window, or none for nothing.
 		'upColor':'#CFBFB3', //region color when page loads
 		'overColor':'#BD4A3D', //region color when mouse hover
-		'downColor':'#A33124',//region color when mouse clicking
+		'downColor':'#A33124', //region color when mouse clicking
 	},
 	'map_2':{
 		'hover': 'NEW SOUTH WALES',
@@ -71,7 +71,7 @@
 	'map_8':{
 		'hover': 'WESTERN AUSTRALIA',
 		'enable':true,
-		'url':'',
+		'url':'http://indigenous-data-hub-webcoda-v2.webflow.io/western-australia',
 		'target':'none',
 		'upColor':'#CFBFB3',
 		'overColor':'#BD4A3D',
