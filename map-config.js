@@ -16,7 +16,7 @@
 	'map_2':{
 		'hover': 'NEW SOUTH WALES',
 		'enable':true,
-		'url':'',
+		'url':'http://indigenous-data-hub-webcoda-v2.webflow.io/new-south-wales',
 		'target':'none',
 		'upColor':'#CFBFB3',
 		'overColor':'#BD4A3D',
@@ -35,7 +35,7 @@
 		'hover': 'QUEENSLAND',
 		'hover': 'QUEENSLAND',
 		'enable':true,
-		'url':'',
+		'url':'http://indigenous-data-hub-webcoda-v2.webflow.io/queensland',
 		'target':'none',
 		'upColor':'#CFBFB3',
 		'overColor':'#BD4A3D',
@@ -44,7 +44,7 @@
 	'map_5':{
 		'hover': 'SOUTH AUSTRALIA',
 		'enable':true,
-		'url':'',
+		'url':'http://indigenous-data-hub-webcoda-v2.webflow.io/south-australia',
 		'target':'none',
 		'upColor':'#CFBFB3',
 		'overColor':'#BD4A3D',
