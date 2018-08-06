@@ -43,7 +43,7 @@
 	'map_5':{
 		'hover': 'SOUTH AUSTRALIA',
 		'enable':true,
-		'url':'javascript:void(0)" onClick="myFunction',
+		'url':'javascript:no-page-exists();',
 		'target':'same_window',
 		'upColor':'#CFBFB3',
 		'overColor':'#BD4A3D',
