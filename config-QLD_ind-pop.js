@@ -13,7 +13,6 @@ var map_config = {
 		'overColor':'#BD4A3D', //region color when mouse hover
 		'downColor':'#A33124',//region color when mouse clicking
 	},
-	'map_2':{
 		'hover': 'NEW SOUTH WALES',
 		'enable':true,
 		'url':'http://indigenous-data-hub-webcoda-v2.webflow.io/new-south-wales/indigenous-population',
@@ -36,9 +35,9 @@ var map_config = {
 		'enable':true,
 		'url':'http://indigenous-data-hub-webcoda-v2.webflow.io/queensland/indigenous-population',
 		'target':'same_window',
-		'upColor':'#CFBFB3',
+		'upColor':'#BD4A3D',
 		'overColor':'#BD4A3D',
-		'downColor':'#A33124',
+		'downColor':'#BD4A3D',
 	},
 	'map_5':{
 		'hover': 'SOUTH AUSTRALIA',
@@ -72,8 +71,8 @@ var map_config = {
 		'enable':true,
 		'url':'http://indigenous-data-hub-webcoda-v2.webflow.io/western-australia/indigenous-population',
 		'target':'same_window',
-		'upColor':'#BD4A3D',
+		'upColor':'#CFBFB3',
 		'overColor':'#BD4A3D',
-		'downColor':'#BD4A3D',
+		'downColor':'#A33124',
 	},
 }
