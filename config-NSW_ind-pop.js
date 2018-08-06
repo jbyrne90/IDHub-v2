@@ -16,7 +16,7 @@ var map_config = {
 	'map_2':{
 		'hover': 'NEW SOUTH WALES',
 		'enable':true,
-		'url':'http://indigenous-data-hub-webcoda-v2.webflow.io/new-south-wales',
+		'url':'http://indigenous-data-hub-webcoda-v2.webflow.io/new-south-wales/indigenous-population',
 		'target':'same_window',
 		'upColor':'#BD4A3D',
 		'overColor':'#BD4A3D',
@@ -25,7 +25,7 @@ var map_config = {
 	'map_3':{
 		'hover': 'NORTHERN TERRITORY',
 		'enable':true,
-		'url':'http://indigenous-data-hub-webcoda-v2.webflow.io/northern-territory',
+		'url':'http://indigenous-data-hub-webcoda-v2.webflow.io/northern-territory/indigenous-population',
 		'target':'same_window',
 		'upColor':'#CFBFB3',
 		'overColor':'#BD4A3D',
@@ -34,7 +34,7 @@ var map_config = {
 	'map_4':{
 		'hover': 'QUEENSLAND',
 		'enable':true,
-		'url':'http://indigenous-data-hub-webcoda-v2.webflow.io/queensland',
+		'url':'http://indigenous-data-hub-webcoda-v2.webflow.io/queensland/indigenous-population',
 		'target':'same_window',
 		'upColor':'#CFBFB3',
 		'overColor':'#BD4A3D',
@@ -43,7 +43,7 @@ var map_config = {
 	'map_5':{
 		'hover': 'SOUTH AUSTRALIA',
 		'enable':true,
-		'url':'http://indigenous-data-hub-webcoda-v2.webflow.io/south-australia',
+		'url':'http://indigenous-data-hub-webcoda-v2.webflow.io/south-australia/indigenous-population',
 		'target':'same_window',
 		'upColor':'#CFBFB3',
 		'overColor':'#BD4A3D',
@@ -70,7 +70,7 @@ var map_config = {
 	'map_8':{
 		'hover': 'WESTERN AUSTRALIA',
 		'enable':true,
-		'url':'http://indigenous-data-hub-webcoda-v2.webflow.io/western-australia',
+		'url':'http://indigenous-data-hub-webcoda-v2.webflow.io/western-australia/indigenous-population',
 		'target':'same_window',
 		'upColor':'#CFBFB3',
 		'overColor':'#BD4A3D',
