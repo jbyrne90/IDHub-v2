@@ -66,7 +66,14 @@ function addEvent(id,relationId){
 				window.open(map_config[id]['url']);	
 			}else if(map_config[id]['target'] == 'same_window'){
 				window.parent.location.href=map_config[id]['url'];
-			}
+// added		
+			}else if(map_config[id]['target'] == 'display_error'){
+				$('div.js-message').addClass('reveal'); // Add class to error message div for 2 seconds
+					setTimeout(function () {
+						$('div.js-message').removeClass('reveal'); 
+					}, 2000);
+				}
+// end_added
 		})
 		_Textobj.mousemove(function(e){
 			var x=e.pageX+10, y=e.pageY+15;
