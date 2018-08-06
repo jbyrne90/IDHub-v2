@@ -13,6 +13,7 @@ var map_config = {
 		'overColor':'#BD4A3D', //region color when mouse hover
 		'downColor':'#A33124',//region color when mouse clicking
 	},
+	'map_2':{
 		'hover': 'NEW SOUTH WALES',
 		'enable':true,
 		'url':'http://indigenous-data-hub-webcoda-v2.webflow.io/new-south-wales/indigenous-population',
