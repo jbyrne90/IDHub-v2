@@ -7,8 +7,8 @@
 	'map_1':{
 		'hover': 'AUSTRALIAN CAPITAL TERRITORY', //region hover content
 		'enable':true, //true/false to enable/disable this region
-		'url':'', //Goto URL
-		'target':'none', //open link in new window:new_window, open in current window:same_window, or none for nothing.
+		'url':'#', //Goto URL
+		'target':'display_error', //open link in new window:new_window, open in current window:same_window, or none for nothing.
 		'upColor':'#CFBFB3', //region color when page loads
 		'overColor':'#BD4A3D', //region color when mouse hover
 		'downColor':'#A33124', //region color when mouse clicking
@@ -16,7 +16,7 @@
 	'map_2':{
 		'hover': 'NEW SOUTH WALES',
 		'enable':true,
-		'url':'http://indigenous-data-hub-webcoda-v2.webflow.io/new-south-wales',
+		'url':'http://indigenous-data-hub-webcoda-v2.webflow.io/new-south-wales/indigenous-population',
 		'target':'same_window',
 		'upColor':'#CFBFB3',
 		'overColor':'#BD4A3D',
@@ -25,7 +25,7 @@
 	'map_3':{
 		'hover': 'NORTHERN TERRITORY',
 		'enable':true,
-		'url':'http://indigenous-data-hub-webcoda-v2.webflow.io/northern-territory',
+		'url':'http://indigenous-data-hub-webcoda-v2.webflow.io/northern-territory/indigenous-population',
 		'target':'same_window',
 		'upColor':'#CFBFB3',
 		'overColor':'#BD4A3D',
@@ -34,7 +34,7 @@
 	'map_4':{
 		'hover': 'QUEENSLAND',
 		'enable':true,
-		'url':'http://indigenous-data-hub-webcoda-v2.webflow.io/queensland',
+		'url':'http://indigenous-data-hub-webcoda-v2.webflow.io/queensland/indigenous-population',
 		'target':'same_window',
 		'upColor':'#CFBFB3',
 		'overColor':'#BD4A3D',
@@ -43,7 +43,7 @@
 	'map_5':{
 		'hover': 'SOUTH AUSTRALIA',
 		'enable':true,
-		'url':'http://indigenous-data-hub-webcoda-v2.webflow.io/south-australia',
+		'url':'http://indigenous-data-hub-webcoda-v2.webflow.io/south-australia/indigenous-population',
 		'target':'same_window',
 		'upColor':'#CFBFB3',
 		'overColor':'#BD4A3D',
@@ -52,7 +52,7 @@
 	'map_6':{
 		'hover': 'TASMANIA',
 		'enable':true,
-		'url':'',
+		'url':'#',
 		'target':'none',
 		'upColor':'#CFBFB3',
 		'overColor':'#BD4A3D',
@@ -61,7 +61,7 @@
 	'map_7':{
 		'hover': 'VICTORIA',
 		'enable':true,
-		'url':'',
+		'url':'#',
 		'target':'none',
 		'upColor':'#CFBFB3',
 		'overColor':'#BD4A3D',
@@ -70,7 +70,7 @@
 	'map_8':{
 		'hover': 'WESTERN AUSTRALIA',
 		'enable':true,
-		'url':'http://indigenous-data-hub-webcoda-v2.webflow.io/western-australia',
+		'url':'http://indigenous-data-hub-webcoda-v2.webflow.io/western-australia/indigenous-population',
 		'target':'same_window',
 		'upColor':'#CFBFB3',
 		'overColor':'#BD4A3D',
