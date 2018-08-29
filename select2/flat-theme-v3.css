@@ -33,7 +33,7 @@ Link : http://techhysahil.com
 }
 
 .select2-container--flat .select2-container--focus .select2-selection--multiple {
-  border: 1px solid #3E3B39;
+  border: 1px solid #BFBFBF;
   border-radius: 2px;
 }
 .select2-container--flat .select2-results__option--highlighted[aria-selected] {
@@ -55,7 +55,7 @@ Link : http://techhysahil.com
 }
 .select2-container--flat span.select2-search input {
   height: 34px !important;
-  border: 1px solid #3E3B39 !important;
+  border: 1px solid #BFBFBF !important;
 }
 
 .select2-container .select2-choice {
@@ -179,7 +179,7 @@ Link : http://techhysahil.com
 /****** Single SCSS *******/
 .select2-container--flat .select2-selection--single {
   background: #FFFFFF;
-  border: 1px solid #3E3B39;
+  border: 1px solid #BFBFBF;
   height: 40px;
 }
 .select2-container--flat .select2-selection--single .select2-selection__rendered {
@@ -238,7 +238,7 @@ Link : http://techhysahil.com
   border-radius: 2px;
 }
 .select2-container--flat .select2-selection--multiple {
-  border: 1px solid #3E3B39;
+  border: 1px solid #BFBFBF;
   border-radius: 2px;
 }
 .select2-container--flat .select2-selection--multiple .select2-selection__choice__remove:hover {
